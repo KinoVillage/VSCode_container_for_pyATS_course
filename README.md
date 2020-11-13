@@ -1,7 +1,7 @@
 ## つかいかた
-VSCodeの裏でうごくanaconda入りのDocker環境をつくるよ \
+VSCodeの裏でうごくanaconda入りのDocker環境をつくるよ
 
-VSCodeでフォルダをひらいたら、Remote-Containersでコンテナをbuildしてね \
+VSCodeでフォルダをひらいたら、Remote-Containersでコンテナをbuildしてね
 
 コンテナができたら、VSCodeであたらしいターミナルをひらいて、 \
 `source activate kino_net` をたたいてね
